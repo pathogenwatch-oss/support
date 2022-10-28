@@ -1,7 +1,7 @@
 # Discussion Forum Guidelines for Pathogenwatch
 
 # Why
-We never really expect to have to enforce these standards on the question and answer forum for an infectious disease 
+We never really expect to have to enforce these standards on the question and answer forum for an infectious disease genomics website. But just in case, please follow the rules below.
 
 ## Rule 1: Stay On Topic
 
