@@ -2,7 +2,7 @@
 Support, issues, and discussion forum for the Pathogenwatch website.
 
 ## Getting support
- - If you have a question about how to use Pathogenwatch we encourage you to first check the [Pathogenwatch public discussion forum]([https://github.com/pathogenwatch-oss/support/discussions](https://github.com/orgs/pathogenwatch-oss/discussions)) to see if it has been answered already. If not, please submit your question here so others can also benefit. 
+ - If you have a question about how to use Pathogenwatch we encourage you to first check the [Pathogenwatch public discussion forum](https://github.com/orgs/pathogenwatch-oss/discussions) to see if it has been answered already. If not, please submit your question here so others can also benefit. 
  - If you wish to ask your question privately, for instance if it references private data, please email [pathogenwatch@cgps.group](mailto:pathogenwatch@cgps.group). While we will aim to reply quickly, the small size of our team can mean delays in response.
  - If you have identified an error, bug, failure or other unwanted feature, please [submit an issue to the issue tracker](https://github.com/pathogenwatch-oss/support/issues).
 
